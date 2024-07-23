@@ -28,8 +28,10 @@ My research interests include topics in
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.06*: &nbsp;🎉🎉 Participated *4th International Conference on Machine Learning and Intelligent Systems Engineering (MLISE 2024)* 
+- *2024.05*: &nbsp;🎉🎉 A paper is submitted to the *IEEE Transactions on Network Science and Engineering*.
+- *2023.11*: &nbsp;🎉🎉 A paper is submitted to the *Artificial Intelligence and Law*.
+- *2022.07*: &nbsp;🎉🎉 Graduated from Beiwai College with awards *Outstanding Graduates* and *Outstanding Graduation Thesis*
 
 # 📝 Publications 
 
