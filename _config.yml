@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Ruogu Sun"
-description              : "Personal academic website"
+description              : "Management Science and Engineering"
 repository               : "Ruogu-Sun.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Ruogu Sun"
   avatar           : "images/avatar_alt.png"
-  bio              : "BFSU"
+  bio              : "Beijing Foreign Studies University (BFSU)"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
