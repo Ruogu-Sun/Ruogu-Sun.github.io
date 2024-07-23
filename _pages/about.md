@@ -18,13 +18,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🤵 ​Biography
-I received my bachelor's degree in English in Beiwai College, Beijing Foreign Studies University. I am currently working toward an M.S degree in Management Science and Engineering at International Business School, BFSU.
+I received my bachelor's degree in **English** in Beiwai College, Beijing Foreign Studies University. I am currently working toward an M.S degree in **Management Science and Engineering** at International Business School, BFSU.
 
 My research interests include topics in 
-+ Operations Management
-+ Optimization
-+ Machine Learning
-+ Transportation
++ **Operations Management**
++ **Optimization**
++ **Machine Learning**
++ **Transportation**
 
 
 # 🔥 News
