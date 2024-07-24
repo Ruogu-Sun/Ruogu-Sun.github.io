@@ -60,16 +60,16 @@ I am passionate about building **robust and interpretable models** to solve real
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2023.10* Master Students Second Level General Academic Scholarship | BFSU
-- *2022.10* Master Students Special Level Academic Scholarship | BFSU
-- *2022.07* Outstanding Graduates | BFSU
-- *2022.07* Outstanding Graduation Thesis | BFSU
-- *2022.03* Teacher Qualification Certificate: High School English | Ministry of Education 
-- *2021.10* Third-class Scholarship | BFSU
-- *2021.10* Social Service Award | BFSU
-- *2020.10* Student Award of Merit | BFSU
-- *2020.10* Second-class Scholarship | BFSU
-- *2020.10* Social Service Award | BFSU
+- *2023.10* Master Students Second Level General Academic Scholarship; BFSU
+- *2022.10* Master Students Special Level Academic Scholarship; BFSU
+- *2022.07* Outstanding Graduates; BFSU
+- *2022.07* Outstanding Graduation Thesis; BFSU
+- *2022.03* Teacher Qualification Certificate: High School English; Ministry of Education 
+- *2021.10* Third-class Scholarship; BFSU
+- *2021.10* Social Service Award; BFSU
+- *2020.10* Student Award of Merit; BFSU
+- *2020.10* Second-class Scholarship; BFSU
+- *2020.10* Social Service Award; BFSU
 
 
 # 📖 Educations
