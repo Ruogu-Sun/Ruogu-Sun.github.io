@@ -76,7 +76,7 @@ Xi CHEN, **Ruogu SUN**, Lei WANG, Xiaosong DING
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Artificial Intelligence and Law: Under Review</div><img src='images/getn.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNSE: Under Review</div><img src='images/getn.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Robustness and Evolvement of the Global Energy Trade Networks
