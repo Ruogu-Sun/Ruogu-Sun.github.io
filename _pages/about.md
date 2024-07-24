@@ -28,10 +28,10 @@ My research interests include topics in
 
 
 # 🔥 News
-- *2024.06*: &nbsp;🎉🎉 Participated *4th International Conference on Machine Learning and Intelligent Systems Engineering (MLISE 2024)* 
+- *2024.06*: &nbsp;🎉🎉 Participated in *4th International Conference on Machine Learning and Intelligent Systems Engineering (MLISE 2024)* 
 - *2024.05*: &nbsp;🎉🎉 A paper is submitted to the *IEEE Transactions on Network Science and Engineering*.
 - *2023.11*: &nbsp;🎉🎉 A paper is submitted to the *Artificial Intelligence and Law*.
-- *2022.07*: &nbsp;🎉🎉 Graduated from Beiwai College with awards *Outstanding Graduates* and *Outstanding Graduation Thesis*
+- *2022.07*: &nbsp;🎉🎉 Graduated from Beiwai College with awards *Outstanding Graduates* and *Outstanding Graduation Thesis*.
 
 # 🔍 Research Experiences
 
@@ -53,12 +53,23 @@ My research interests include topics in
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.10* Master Students Second Level General Academic Scholarship | BFSU
+- *2022.10* Master Students Special Level Academic Scholarship | BFSU
+- *2022.07* Outstanding Graduates | BFSU
+- *2022.07* Outstanding Graduation Thesis | BFSU
+- *2022.03* Teacher Qualification Certificate: High School English | Ministry of Education 
+- *2021.10* Third-class Scholarship | BFSU
+- *2021.10* Social Service Award | BFSU
+- *2020.10* Student Award of Merit | BFSU
+- *2020.10* Second-class Scholarship | BFSU
+- *2020.10* Social Service Award | BFSU
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - 2025.06 (Now)*, M.S. Beijing Foreign Studies University, International Business School, **Management Science and Engineering**. GPA: 3.84/4.00; Ranking: 6/24
+- *2021.09 - 2022.03*, Exchange. University California, of Los Angeles. Grade: A
+- *2019.09 - 2022.06*, B.S. Beijing Foreign Studies University, Beiwai Colledge, **English**. GPA: 3.90/4.00; Ranking: 5/48
+
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
