@@ -42,9 +42,6 @@ I am passionate about building **robust and interpretable models** to solve real
 
 # 🔍 Research Experiences
 
-
-# 📝 Publications 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Progress</div><img src='images/Parking.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -93,6 +90,8 @@ Xi CHEN, **Ruogu SUN**, Kaiwen LI, Xiaosong DING
 </div>
 </div>
 
+# 📝 Publications 
++ Chen, X., **Sun, R**., Ma, J., & Ding, X. (2024, June 28-30). Temporal graph transformer for digital twins of waste incineration power plant [Conference session]. 4th International Conference on Machine Learning and Intelligent Systems Engineering (MLISE 2024), Zhuhai, Guangdong, China.
 
 # 🎖 Honors and Awards
 - *2023.10* Master Students Second Level General Academic Scholarship; BFSU
