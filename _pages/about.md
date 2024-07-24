@@ -20,12 +20,19 @@ redirect_from:
 # 🤵 ​Biography
 I received my bachelor's degree in **English** in Beiwai College, Beijing Foreign Studies University. I am currently working toward an M.S degree in **Management Science and Engineering** at International Business School, BFSU.
 
-My research interests include topics in 
-+ **Operations Management**
-+ **Optimization**
-+ **Machine Learning**
-+ **Transportation**
+My research interests include topics in
++ **Domain**
+  + Operations Management
+  + Optimization
+  + Machine Learning
+  + Transportation
++ **Techniques**
+  + Big Data Analytics
+  + Time Series Forecasting
+  + Complex Network Theory
+  + Statisitcal Inference
 
+I am passionate about building **robust and interpretable models** to solve real-world managerial and economic problems. I also crave **stochastic process model** and **cutting-edge machine/deep learning framework** that enable data-driven approaches in this world. As a life-long learner, I aspire to obtain a PhD seat and ultimately embark on a fulfilling career as a higher education educator
 
 # 🔥 News
 - *2024.06*: &nbsp;🎉🎉 Participated in *4th International Conference on Machine Learning and Intelligent Systems Engineering (MLISE 2024)* 
