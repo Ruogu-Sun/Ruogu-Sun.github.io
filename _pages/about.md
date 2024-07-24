@@ -61,7 +61,38 @@ Xi CHEN, **Ruogu SUN**, Xiaosong DING
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Artificial Intelligence and Law: Under Review</div><img src='images/death.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Matter of life and death: Factors influencing the immediate execution of death sentences based on the topic modeling and machine learning
+
+Xi CHEN, **Ruogu SUN**, Lei WANG, Xiaosong DING
+
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+**Keyword**
++ Death sentence
++ DATM
++ Machine learning
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Artificial Intelligence and Law: Under Review</div><img src='images/getn.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Robustness and Evolvement of the Global Energy Trade Networks
+
+Xi CHEN, **Ruogu SUN**, Kaiwen LI, Xiaosong DING
+
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+**Keyword**
++ Global energy trade
++ Network robustness
++ Cascading failure
++ Trade evolution
++ Exponential random graph model
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
 - *2023.10* Master Students Second Level General Academic Scholarship; BFSU
