@@ -30,7 +30,7 @@ My research interests include topics in
   + Big Data Analytics
   + Time Series Forecasting
   + Complex Network Theory
-  + Statisitcal Inference
+  + Statistical Inference
 
 I am passionate about building **robust and interpretable models** to solve real-world managerial and economic problems. I also crave **stochastic process model** and **cutting-edge machine/deep learning framework** that enable data-driven approaches in this world. As a life-long learner, I aspire to obtain a PhD seat and ultimately embark on a fulfilling career as a higher education educator.
 
