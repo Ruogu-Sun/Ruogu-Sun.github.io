@@ -42,7 +42,7 @@ I am passionate about building **robust and interpretable models** to solve real
 
 # 🔍 Research Experiences
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Progress</div><img src='images/Parking.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to Transportation Research Part B</div><img src='images/Parking.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 A New Forecasting Framework for Parking Occupancy Dynamics by Integrating Arrival and Departure Behaviors
@@ -108,7 +108,7 @@ Xi CHEN, **Ruogu SUN**, Kaiwen LI, Xiaosong DING
 
 # 📖 Educations
 - *2022.09 - 2025.06 (Now)*, M.S. Beijing Foreign Studies University, International Business School, **Management Science and Engineering**. GPA: 3.84/4.00; Ranking: 6/24
-- *2021.09 - 2022.03*, Exchange. University California, of Los Angeles. Grade: A
+- *2021.09 - 2022.03*, Exchange. University of California, Los Angeles. Grade: A
 - *2019.09 - 2022.06*, B.S. Beijing Foreign Studies University, Beiwai Colledge, **English**. GPA: 3.90/4.00; Ranking: 5/48
 
 
