@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🤵 ​Biography
-I received my B.S. degree in **English** in Beiwai College, Beijing Foreign Studies University. I am currently working toward an M.S degree in **Management Science and Engineering** at International Business School, BFSU.
+I received my B.S. degree in **English** in Beiwai College, Beijing Foreign Studies University. I am currently working toward an M.S degree in **Management Science and Engineering** at International Business School, BFSU, where I am advised by Prof. Xi CHEN. 
 
 My research interests include topics in
 + **Domain**
@@ -26,13 +26,15 @@ My research interests include topics in
   + Optimization
   + Machine Learning
   + Transportation
+  + Quantitative Marketing
 + **Techniques**
   + Big Data Analytics
   + Time Series Forecasting
   + Complex Network Theory
   + Statistical Inference
+  + Stochastic Process & MDP
 
-I am passionate about building **robust and interpretable models** to solve real-world managerial and economic problems. I also crave **stochastic process model** and **cutting-edge machine/deep learning framework** that enable data-driven approaches in this world. As a life-long learner, I aspire to obtain a PhD seat and ultimately embark on a fulfilling career as a higher education educator.
+I am passionate about building **robust and interpretable models** to explain and solve real-world managerial and economic problems. I also crave **stochastic process model** and **cutting-edge machine/deep learning framework** that enable data-driven approaches in this world. As a life-long learner, I aspire to obtain a PhD seat and ultimately embark on a fulfilling career as a higher education educator.
 
 # 🔥 News
 - *2024.06*: &nbsp;🎉🎉 Participated in *4th International Conference on Machine Learning and Intelligent Systems Engineering (MLISE 2024)* 
@@ -42,7 +44,7 @@ I am passionate about building **robust and interpretable models** to solve real
 
 # 🔍 Research Experiences
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to Transportation Research Part B</div><img src='images/Parking.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Transportation Research Part B: Under Review</div><img src='images/Parking.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 A New Forecasting Framework for Parking Occupancy Dynamics by Integrating Arrival and Departure Behaviors
@@ -58,7 +60,7 @@ Xi CHEN, **Ruogu SUN**, Xiaosong DING
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Artificial Intelligence and Law: Under Review</div><img src='images/death.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">To be submitted</div><img src='images/death.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Matter of life and death: Factors influencing the immediate execution of death sentences based on the topic modeling and machine learning
@@ -73,7 +75,7 @@ Xi CHEN, **Ruogu SUN**, Lei WANG, Xiaosong DING
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNSE: Under Review</div><img src='images/getn.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">To be submitted</div><img src='images/getn.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Robustness and Evolvement of the Global Energy Trade Networks
