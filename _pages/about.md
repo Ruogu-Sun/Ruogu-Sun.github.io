@@ -66,13 +66,10 @@ Overall, I am passionate about building **robust and interpretable models** to e
 
 ## Finished & Forthcoming
 + A New Forecasting Framework for Parking Occupancy Dynamics by Integrating Arrival and Departure Behaviors
+  + Xi CHEN, **Ruogu SUN**, Xiaosong DING
+  + Keywords: arrival and departure behavior, markov regime-switching model, maximum likelihood estimation
+  + Under Review : TRP-B
 
-  Xi CHEN, **Ruogu SUN**, Xiaosong DING
-
-  Keywords: arrival and departure behavior, markov regime-switching model, maximum likelihood estimation
-
-  Under Review : TRP-B
-  -----
 
 + Matter of life and death: Factors influencing the immediate execution of death sentences based on the topic modeling and machine learning
 
@@ -81,7 +78,7 @@ Overall, I am passionate about building **robust and interpretable models** to e
   Keywords: death sentence, topic modeling, machine learning, NLP
 
   To be submitted
-  -----
+
 
 + Robustness and Evolvement of the Global Energy Trade Networks
 
