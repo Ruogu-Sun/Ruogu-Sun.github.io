@@ -37,9 +37,15 @@ My research interests include topics in
 Overall, I am passionate about building **robust and interpretable models** to explain and solve real-world managerial and economic problems. I also crave **stochastic process model** and **cutting-edge machine/deep learning framework** that enable data-driven approaches and inform decision making in this world. As a life-long learner, I aspire to obtain a PhD seat and ultimately embark on a fulfilling career as a higher education educator.
 
 # 📖 Educations
-- *2022.09 - 2025.06 (Now)*, M.S. Beijing Foreign Studies University, International Business School, **Management Science and Engineering**. GPA: 3.85/4.00; Ranking: 1/24
+- *2022.09 - 2025.06 (Now)*, M.S. Beijing Foreign Studies University, International Business School, **Management Science and Engineering**.
+
+  GPA: 3.85/4.00; Ranking: 1/24
+
   Coursework: MATLAB and Optimization, Machine Learning, Advanced Statistics.
-- *2019.09 - 2022.06*, B.A. Beijing Foreign Studies University, Beiwai Colledge, **English**. GPA: 3.90/4.00; Ranking: 3/48
+- *2019.09 - 2022.06*, B.A. Beijing Foreign Studies University, Beiwai Colledge, **English**.
+
+  GPA: 3.90/4.00; Ranking: 3/48
+
   Coursework: Advanced Mathematics (Calculus), Programming (Python), Probability and Statistics, Academic Writing, Micro/Macro Economics.
 
 <!-- # 🔥 News
@@ -59,25 +65,24 @@ Overall, I am passionate about building **robust and interpretable models** to e
 
 
 ## Finished & Forthcoming
-- A New Forecasting Framework for Parking Occupancy Dynamics by Integrating Arrival and Departure Behaviors
+1. A New Forecasting Framework for Parking Occupancy Dynamics by Integrating Arrival and Departure Behaviors
 
   Xi CHEN, **Ruogu SUN**, Xiaosong DING
-  
   Keywords: arrival and departure behavior, markov regime-switching model, maximum likelihood estimation
+  Under Review : TRP-B
 
-- Matter of life and death: Factors influencing the immediate execution of death sentences based on the topic modeling and machine learning
+2. Matter of life and death: Factors influencing the immediate execution of death sentences based on the topic modeling and machine learning
 
   Xi CHEN, **Ruogu SUN**, Lei WANG, Xiaosong DING
-
   Keywords: death sentence, topic modeling, machine learning, NLP
+  To be submitted
 
 
-
-- Robustness and Evolvement of the Global Energy Trade Networks
+3. Robustness and Evolvement of the Global Energy Trade Networks
 
   Xi CHEN, **Ruogu SUN**, Kaiwen LI, Xiaosong DING
-
   Keywords: global energy trade, network robustness, cascading failure, exponential random graph model
+  Under Review: IEEE TNSE
 
 
 # 📝 Publications 
