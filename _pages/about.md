@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 🤵 ​Biography
+# 🤵 ​Biography [CV](https://drive.google.com/file/d/1EnSM47V9X2kPsUwaVzkPnFcHiFmMUMBX/view?usp=drive_link)
 I received my B.A. in **English**, with a specification in Economics, in Beiwai College, Beijing Foreign Studies University. I am currently working toward an M.S. in **Management Science and Engineering** at International Business School, BFSU, where I am advised by Prof. Xi CHEN and Xiaosong DING. 
 
 My research interests include topics in
@@ -81,7 +81,7 @@ Overall, I am passionate about building **robust and interpretable models** to e
 
 
 # 📝 Publications 
-+ Chen, X., **Sun, R**., Ma, J., & Ding, X. (2024, June 28-30). Temporal graph transformer for digital twins of waste incineration power plant. 4th International Conference on Machine Learning and Intelligent Systems Engineering (MLISE 2024), Zhuhai, Guangdong, China. [Link](https://ieeexplore.ieee.org/document/10674369 "Example.com")
++ Chen, X., **Sun, R**., Ma, J., & Ding, X. (2024, June 28-30). Temporal graph transformer for digital twins of waste incineration power plant. 4th International Conference on Machine Learning and Intelligent Systems Engineering (MLISE 2024), Zhuhai, Guangdong, China. [Link](https://ieeexplore.ieee.org/document/10674369)
 
 # 🎖 Honors and Awards
 - *2024.10* Master Students Second Level General Academic Scholarship; BFSU
