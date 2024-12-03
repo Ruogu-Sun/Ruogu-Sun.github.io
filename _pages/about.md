@@ -81,7 +81,7 @@ Overall, I am passionate about building **robust and interpretable models** to e
 
 
 # 📝 Publications 
-+ Chen, X., **Sun, R**., Ma, J., & Ding, X. (2024, June 28-30). Temporal graph transformer for digital twins of waste incineration power plant. 4th International Conference on Machine Learning and Intelligent Systems Engineering (MLISE 2024), Zhuhai, Guangdong, China.
++ Chen, X., **Sun, R**., Ma, J., & Ding, X. (2024, June 28-30). Temporal graph transformer for digital twins of waste incineration power plant. 4th International Conference on Machine Learning and Intelligent Systems Engineering (MLISE 2024), Zhuhai, Guangdong, China. [Link](https://ieeexplore.ieee.org/document/10674369 "Example.com")
 
 # 🎖 Honors and Awards
 - *2024.10* Master Students Second Level General Academic Scholarship; BFSU
