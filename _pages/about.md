@@ -55,7 +55,7 @@ Overall, I am passionate about building **robust and interpretable models** to e
 ## Working Papers
 - Online Order Transfer Between Restaurants
 
-We consider a robust optimization problem in a multilocation restaurant chain with order transfer and inventory replenishment options available. Each restaurant must determine the optimal inventory level for foods-to-deliver to prepare in advance at every planning period over the (possibly infinite) horizon. The objective is to model the decision-making process that minimizes the expected total operational and delivery costs across locations while meeting uncertain customer demand. 
+  We consider a robust optimization problem in a multilocation restaurant chain with order transfer and inventory replenishment options available. Each restaurant must determine the optimal inventory level for foods-to-deliver to prepare in advance at every planning period over the (possibly infinite) horizon. The objective is to model the decision-making process that minimizes the expected total operational and delivery costs across locations while meeting uncertain customer demand. 
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Transportation Research Part B: Under Review</div><img src='images/Parking.jpg' alt="sym" width="100%"></div></div>
