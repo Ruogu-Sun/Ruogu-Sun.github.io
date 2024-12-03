@@ -72,21 +72,15 @@ Overall, I am passionate about building **robust and interpretable models** to e
 
 
 + Matter of life and death: Factors influencing the immediate execution of death sentences based on the topic modeling and machine learning
-
-  Xi CHEN, **Ruogu SUN**, Lei WANG, Xiaosong DING
-
-  Keywords: death sentence, topic modeling, machine learning, NLP
-
-  To be submitted
+  + Xi CHEN, **Ruogu SUN**, Lei WANG, Xiaosong DING
+  + Keywords: death sentence, topic modeling, machine learning, NLP
+  + To be submitted
 
 
 + Robustness and Evolvement of the Global Energy Trade Networks
-
-  Xi CHEN, **Ruogu SUN**, Kaiwen LI, Xiaosong DING
-
-  Keywords: global energy trade, network robustness, cascading failure, exponential random graph model
-
-  Under Review: IEEE TNSE
+  + Xi CHEN, **Ruogu SUN**, Kaiwen LI, Xiaosong DING
+  + Keywords: global energy trade, network robustness, cascading failure, exponential random graph model
+  + Under Review: IEEE TNSE
 
 
 # 📝 Publications 
