@@ -58,53 +58,27 @@ Overall, I am passionate about building **robust and interpretable models** to e
   We consider a robust optimization problem in a multilocation restaurant chain with order transfer and inventory replenishment options available. Each restaurant must determine the optimal inventory level for foods-to-deliver to prepare in advance at every planning period over the (possibly infinite) horizon. The objective is to model the decision-making process that minimizes the expected total operational and delivery costs across locations while meeting uncertain customer demand. 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Transportation Research Part B: Under Review</div><img src='images/Parking.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+## Finished & Forthcoming
+- A New Forecasting Framework for Parking Occupancy Dynamics by Integrating Arrival and Departure Behaviors
 
-A New Forecasting Framework for Parking Occupancy Dynamics by Integrating Arrival and Departure Behaviors
+  Xi CHEN, **Ruogu SUN**, Xiaosong DING
+  
+  Keywords: arrival and departure behavior, markov regime-switching model, maximum likelihood estimation
 
-Xi CHEN, **Ruogu SUN**, Xiaosong DING
+- Matter of life and death: Factors influencing the immediate execution of death sentences based on the topic modeling and machine learning
 
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-**Keyword**
-+ Parking occupancy forecasting
-+ Arrival and departure behavior
-+ Markov regime-switching model
-+ Maximum likelihood estimation
-</div>
-</div>
+  Xi CHEN, **Ruogu SUN**, Lei WANG, Xiaosong DING
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">To be submitted</div><img src='images/death.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+  Keywords: death sentence, topic modeling, machine learning, NLP
 
-Matter of life and death: Factors influencing the immediate execution of death sentences based on the topic modeling and machine learning
 
-Xi CHEN, **Ruogu SUN**, Lei WANG, Xiaosong DING
 
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-**Keyword**
-+ Death sentence
-+ DATM
-+ Machine learning
-</div>
-</div>
+- Robustness and Evolvement of the Global Energy Trade Networks
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNSE: Under Review</div><img src='images/getn.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+  Xi CHEN, **Ruogu SUN**, Kaiwen LI, Xiaosong DING
 
-Robustness and Evolvement of the Global Energy Trade Networks
+  Keywords: global energy trade, network robustness, cascading failure, exponential random graph model
 
-Xi CHEN, **Ruogu SUN**, Kaiwen LI, Xiaosong DING
-
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-**Keyword**
-+ Global energy trade
-+ Network robustness
-+ Cascading failure
-+ Trade evolution
-+ Exponential random graph model
-</div>
-</div>
 
 # 📝 Publications 
 + Chen, X., **Sun, R**., Ma, J., & Ding, X. (2024, June 28-30). Temporal graph transformer for digital twins of waste incineration power plant. 4th International Conference on Machine Learning and Intelligent Systems Engineering (MLISE 2024), Zhuhai, Guangdong, China.
