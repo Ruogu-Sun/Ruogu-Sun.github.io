@@ -63,7 +63,7 @@ Overall, I am passionate about building **robust and interpretable models** to e
 
   + We consider a robust optimization problem in a multilocation restaurant chain with order transfer and inventory replenishment options available. Each restaurant must determine the optimal inventory level for foods-to-deliver to prepare in advance at every planning period over the (possibly infinite) horizon. The objective is to model the decision-making process that minimizes the expected total operational and delivery costs across locations while meeting uncertain customer demand. 
 
-  + [Research Proposal(Last Update: 2024.12.03)](https://drive.google.com/file/d/1rI8Ty3SYt5fAxirYyAd8JElvrPo0ybgd/view?usp=sharing). Check here for a detailed PDF, this is ongoing. I have opened the comment function. Please feel free to leave any comments. They are extremely valuable to me! 
+  + [Research Proposal(Last Update: 2024.12.03)](https://drive.google.com/file/d/1IbpePEcnACbcZ1F9OF7m6yrY2TIEN6ri/view?usp=sharing). Check here for a detailed PDF, this is ongoing. I have opened the comment function. Please feel free to leave any comments. They are extremely valuable to me! 
 
 
 ## Finished & Forthcoming
