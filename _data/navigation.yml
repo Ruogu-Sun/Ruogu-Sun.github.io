@@ -15,6 +15,12 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
+  - title: "Conferenes and Workshops"
+    url: "/#-confwork"
+
+  - title: "Teaching"
+    url: "/#-teaching"
+
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 

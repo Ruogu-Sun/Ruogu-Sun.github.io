@@ -63,7 +63,7 @@ Overall, I am passionate about building **robust and interpretable models** to e
 
   + We consider a robust optimization problem in a multilocation restaurant chain with order transfer and inventory replenishment options available. Each restaurant must determine the optimal inventory level for foods-to-deliver to prepare in advance at every planning period over the (possibly infinite) horizon. The objective is to model the decision-making process that minimizes the expected total operational and delivery costs across locations while meeting uncertain customer demand. 
 
-  + [Research Proposal(Last Update: 2024.12.03)](https://drive.google.com/file/d/1IbpePEcnACbcZ1F9OF7m6yrY2TIEN6ri/view?usp=sharing). Check here for a detailed PDF, this is ongoing. I have opened the comment function. Please feel free to leave any comments. They are extremely valuable to me! 
+  + [Research Proposal(Last Update: 2024.12.04)](https://drive.google.com/file/d/1IbpePEcnACbcZ1F9OF7m6yrY2TIEN6ri/view?usp=sharing). Check here for a detailed PDF, this is ongoing. I have opened the comment function. Please feel free to leave any comments. They are extremely valuable to me! 
 
 
 ## Finished & Forthcoming
@@ -87,6 +87,21 @@ Overall, I am passionate about building **robust and interpretable models** to e
 
 # 📝 Publications 
 + Chen, X., **Sun, R**., Ma, J., & Ding, X. (2024, June 28-30). Temporal graph transformer for digital twins of waste incineration power plant. 4th International Conference on Machine Learning and Intelligent Systems Engineering (MLISE 2024), Zhuhai, Guangdong, China. [Link](https://ieeexplore.ieee.org/document/10674369)
+
+
+# Conferences and Workshops
++ Beijing Foreign Studies University Young Scholars Economic Forum, 2024
++ Machine Learning and Intelligent Systems Engineering, 2024, Zhuhai
++ Frontiers of Engineering Management, 2023.4, Wuhan
+
+# Teaching
++ Teaching Assistant, Optimization (Graduate)
+Beijing Foreign Studies University, Spring 2024
+
++ Teaching Assistant, Probability and Statistics (Undergraduate)
+Beijing Foreign Studies University, 2023
+
+
 
 # 🎖 Honors and Awards
 - *2024.10* Master Students Second Level General Academic Scholarship; BFSU
