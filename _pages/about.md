@@ -17,14 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 🤵 ​Biography [CV](https://drive.google.com/file/d/1EnSM47V9X2kPsUwaVzkPnFcHiFmMUMBX/view?usp=drive_link)
-I received my B.A. in **English**, with a specification in Economics, in Beiwai College, Beijing Foreign Studies University. I am currently working toward an M.S. in **Management Science and Engineering** at International Business School, BFSU, where I am advised by Prof. Xi CHEN and Xiaosong DING. 
+# 🤵 ​Biography [CV Link](https://drive.google.com/file/d/1EnSM47V9X2kPsUwaVzkPnFcHiFmMUMBX/view?usp=drive_link)
+I am currently working toward an M.S. in **Management Science and Engineering** at International Business School, BFSU, where I am advised by Prof. Xi CHEN and Xiaosong DING. 
 
-My research interests include topics in
-+ **Domain** Supply Chain Management; Inventory Control; Transportation; Decision Making; Machine Learning
-+ **Techniques** (Distributionally) Robust Optimization; Stochastic Process & MDP; Time Series Forecasting; Complex Network Theory; (Approximate) Dynamic Programming
+Overall, I am passionate about building **robust and interpretable models** to
+1. explain and solve real-world managerial and economic problems.
+2. enable data-driven approaches and inform decision making in this world.
+3. understand agents behaviors, individually and collectively.
 
-Overall, I am passionate about building **robust and interpretable models** to explain and solve real-world managerial and economic problems. I also crave **stochastic process model** and **cutting-edge machine/deep learning framework** that enable data-driven approaches and inform decision making in this world.
+With that, my research interests include topics in
++ **Domain** Supply Chain Management; Inventory Control; Transportation; Decision Making.
++ **Techniques** (Distributionally) Robust Optimization; Stochastic Process & MDP; Time Series Forecasting; (Approximate) Dynamic Programming; Machine Learning.
+
+
 
 # 📖 Educations
 - *2022.09 - 2025.06 (Now)*, M.S. Beijing Foreign Studies University, International Business School, **Management Science and Engineering**.
@@ -99,12 +104,10 @@ Beijing Foreign Studies University, 2023
 - *2024.10* Master Students Second Level General Academic Scholarship; BFSU
 - *2023.10* Master Students Second Level General Academic Scholarship; BFSU
 - *2022.10* Master Students Special Level Academic Scholarship; BFSU
-- *2022.07* Outstanding Graduates; BFSU
-- *2022.07* Outstanding Graduation Thesis; BFSU
+- *2022.07* Outstanding Graduates; Outstanding Graduation Thesis; BFSU
 - *2022.03* Teacher Qualification Certificate: High School English; Ministry of Education 
 - *2021.10* Social Service Award; BFSU
-- *2020.10* Student Award of Merit; BFSU
-- *2020.10* Second-class Scholarship; BFSU
+- *2020.10* Second-class Scholarship; Student Award of Merit; BFSU
 
 
 <!-- # 💬 Invited Talks
