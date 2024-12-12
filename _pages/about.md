@@ -21,20 +21,10 @@ redirect_from:
 I received my B.A. in **English**, with a specification in Economics, in Beiwai College, Beijing Foreign Studies University. I am currently working toward an M.S. in **Management Science and Engineering** at International Business School, BFSU, where I am advised by Prof. Xi CHEN and Xiaosong DING. 
 
 My research interests include topics in
-+ **Domain**
-  + Supply Chain Management
-  + Inventory Control
-  + Transportation
-  + Decision Making
-  + Machine Learning
-+ **Techniques**
-  + (Distributionally) Robust Optimization
-  + Stochastic Process & MDP
-  + Time Series Forecasting
-  + Complex Network Theory
-  + (Approximate) Dynamic Programming
++ **Domain** Supply Chain Management; Inventory Control; Transportation; Decision Making; Machine Learning
++ **Techniques** (Distributionally) Robust Optimization; Stochastic Process & MDP; Time Series Forecasting; Complex Network Theory; (Approximate) Dynamic Programming
 
-Overall, I am passionate about building **robust and interpretable models** to explain and solve real-world managerial and economic problems. I also crave **stochastic process model** and **cutting-edge machine/deep learning framework** that enable data-driven approaches and inform decision making in this world. As a life-long learner, I aspire to obtain a PhD seat and ultimately embark on a fulfilling career as a higher education educator.
+Overall, I am passionate about building **robust and interpretable models** to explain and solve real-world managerial and economic problems. I also crave **stochastic process model** and **cutting-edge machine/deep learning framework** that enable data-driven approaches and inform decision making in this world.
 
 # 📖 Educations
 - *2022.09 - 2025.06 (Now)*, M.S. Beijing Foreign Studies University, International Business School, **Management Science and Engineering**.
@@ -59,11 +49,13 @@ Overall, I am passionate about building **robust and interpretable models** to e
 
 
 ## Working Papers
-+ Online Order Transfer Between Restaurants 
++ Multi-period Robust Inventory Management with Demand Transfers 
 
-  + We consider a robust optimization problem in a multilocation restaurant chain with order transfer and inventory replenishment options available. Each restaurant must determine the optimal inventory level for foods-to-deliver to prepare in advance at every planning period over the (possibly infinite) horizon. The objective is to model the decision-making process that minimizes the expected total operational and delivery costs across locations while meeting uncertain customer demand. 
+  + We consider a multi-period robust inventory delivery problem in a network with two installations where inventory replenishment and demand transfer options available. Each installation must determine the optimal inventory level for order-to-deliver by replenishment at every planning period, and leverages demand transfer mechanism if necessary. The objective is to model the decision-making process that minimizes the total operational and delivery costs while meeting uncertain customer demand
 
-  + [Research Proposal(Last Update: 2024.12.04)](https://drive.google.com/file/d/1IbpePEcnACbcZ1F9OF7m6yrY2TIEN6ri/view?usp=sharing). Check here for a detailed PDF, this is ongoing. I have opened the comment function. Please feel free to leave any comments. They are extremely valuable to me! 
+  + Check links for detailed descriptions. They are ongoing (not finished). I have opened the comment function. Please feel free to leave any comments. They are extremely valuable to me! 
+  + [Research Proposal(Last Update: 2024.12.04)](https://drive.google.com/file/d/1IbpePEcnACbcZ1F9OF7m6yrY2TIEN6ri/view?usp=sharing).
+  + [slides (Last Update: 2024.12.12)](https://drive.google.com/file/d/1hBCH3dWNYTAWec-GBrUI-KVcZd4jcShj/view?usp=sharing)
 
 
 ## Finished & Forthcoming
@@ -90,8 +82,8 @@ Overall, I am passionate about building **robust and interpretable models** to e
 
 
 # Conferences and Workshops
-+ Beijing Foreign Studies University Young Scholars Economic Forum, 2024
-+ Machine Learning and Intelligent Systems Engineering, 2024, Zhuhai
++ Beijing Foreign Studies University Young Scholars Economic Forum, 2024.12
++ Machine Learning and Intelligent Systems Engineering, 2024.6, Zhuhai
 + Frontiers of Engineering Management, 2023.4, Wuhan
 
 # Teaching
