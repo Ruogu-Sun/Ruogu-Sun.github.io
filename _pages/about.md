@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 🤵 ​Biography [CV Link](https://drive.google.com/file/d/1EnSM47V9X2kPsUwaVzkPnFcHiFmMUMBX/view?usp=drive_link)
+# ​Biography [CV Link](https://drive.google.com/file/d/1GvNFQ-4Dr4p2tIRbC5U22v8v9ZrTD2GN/view?usp=sharing)
 I am currently working toward an M.S. in **Management Science and Engineering** at International Business School, BFSU, where I am advised by Prof. Xi CHEN and Xiaosong DING. 
 
 Overall, I am passionate about building **robust and interpretable models** to
@@ -31,7 +31,7 @@ With that, my research interests include topics in
 
 
 
-# 📖 Educations
+# Educations
 - *2022.09 - 2025.06 (Now)*, M.S. Beijing Foreign Studies University, International Business School, **Management Science and Engineering**.
 
   GPA: 3.85/4.00; Ranking: 1/24
@@ -50,7 +50,7 @@ With that, my research interests include topics in
 - *2023.11*: &nbsp;🎉🎉 A paper is submitted to the *Artificial Intelligence and Law*.
 - *2022.07*: &nbsp;🎉🎉 Graduated from Beiwai College with awards *Outstanding Graduates* and *Outstanding Graduation Thesis*. -->
 
-# 🔍 Research Experiences
+# Research Experiences
 
 
 ## Working Papers
@@ -82,7 +82,7 @@ With that, my research interests include topics in
   + Under Review: IEEE TNSE
 
 
-# 📝 Publications 
+# Publications 
 + Chen, X., **Sun, R**., Ma, J., & Ding, X. (2024, June 28-30). Temporal graph transformer for digital twins of waste incineration power plant. 4th International Conference on Machine Learning and Intelligent Systems Engineering (MLISE 2024), Zhuhai, Guangdong, China. [Link](https://ieeexplore.ieee.org/document/10674369)
 
 
@@ -100,7 +100,7 @@ Beijing Foreign Studies University, 2023
 
 
 
-# 🎖 Honors and Awards
+# Honors and Awards
 - *2024.10* Master Students Second Level General Academic Scholarship; BFSU
 - *2023.10* Master Students Second Level General Academic Scholarship; BFSU
 - *2022.10* Master Students Special Level Academic Scholarship; BFSU
@@ -114,5 +114,8 @@ Beijing Foreign Studies University, 2023
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
+# Internships
 - *2021.06 - 2021.09*, Operation Support, China Minsheng Banking Corp., LTD.
+
+# Archive
+<a href="archive.html"> Micellaneous </a>
