@@ -66,14 +66,14 @@ With that, my research interests include topics in
 ## Finished & Forthcoming
 + A New Forecasting Framework for Parking Occupancy Dynamics by Integrating Arrival and Departure Behaviors
   + Xi CHEN, **Ruogu SUN**, Xiaosong DING
-  + Keywords: arrival and departure behavior, markov regime-switching model, maximum likelihood estimation
+  + Keywords: arrival and departure behavior, markov regime-switching model, maximum likelihood estimation.
   + Under Review : TRP-B
 
 
 + Matter of life and death: Factors influencing the immediate execution of death sentences based on the topic modeling and machine learning
   + Xi CHEN, **Ruogu SUN**, Lei WANG, Xiaosong DING
-  + Keywords: death sentence, topic modeling, machine learning, NLP
-  + To be submitted
+  + Keywords: death sentence, topic modeling, machine learning, NLP.
+  + Submitted to *Applied Intelligence*
 
 
 + Robustness and Evolvement of the Global Energy Trade Networks
@@ -118,4 +118,4 @@ Beijing Foreign Studies University, 2023
 - *2021.06 - 2021.09*, Operation Support, China Minsheng Banking Corp., LTD.
 
 # Archive
-<a href="https://plqj.github.io/"> Micellaneous </a>
+<a href="https://plqj.github.io/"> Archive </a>
