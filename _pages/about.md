@@ -59,7 +59,7 @@ With that, my research interests include topics in
   + We consider a multi-period robust inventory delivery problem in a network with two installations where inventory replenishment and demand transfer options available. Each installation must determine the optimal inventory level for order-to-deliver by replenishment at every planning period, and leverages demand transfer mechanism if necessary. The objective is to model the decision-making process that minimizes the total operational and delivery costs while meeting uncertain customer demand
 
   + Check links for detailed descriptions. They are ongoing (not finished). I have opened the comment function. Please feel free to leave any comments. They are extremely valuable to me! 
-  + [Research Proposal(Last Update: 2024.12.04)](https://drive.google.com/file/d/1IbpePEcnACbcZ1F9OF7m6yrY2TIEN6ri/view?usp=sharing).
+  + [Research Proposal(Last Update: 2024.12.20)](https://drive.google.com/file/d/11RZdiYnNeC9IcYMVedrUxEQWbJ8C4RTb/view?usp=sharing).
   + [slides (Last Update: 2024.12.12)](https://drive.google.com/file/d/1hBCH3dWNYTAWec-GBrUI-KVcZd4jcShj/view?usp=sharing)
 
 
