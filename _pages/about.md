@@ -87,7 +87,8 @@ With that, my research interests include topics in
 
 
 # Conferences and Workshops
-+ Beijing Foreign Studies University Young Scholars Economic Forum, 2024.12
++ The Third Wuhan Cherry Blossom Workshop in Experimental Economics, 2025.3, Wuhan
++ Beijing Foreign Studies University Young Scholars Economic Forum, 2024.12, Beijing
 + Machine Learning and Intelligent Systems Engineering, 2024.6, Zhuhai
 + Frontiers of Engineering Management, 2023.4, Wuhan
 
